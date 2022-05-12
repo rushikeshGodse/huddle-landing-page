@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap");
+
+$dark-blue: rgb(30, 16, 160);
+$soft-blue: rgb(78, 58, 255);
+
+$Font-hero: "Poppins", Helvetica, sans-serif;
+$Font-normal: "Open Sans", helvetica, sans-serif;
+
+html {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: $Font-normal;
+  font-size: 16px;
+  line-height: 1.4;
+  overflow-x: hidden;
+}
+
+li {
+  list-style: none;
+}

@@ -27,4 +27,4 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [live site](https://github.com/rushikeshGodse/huddle-landing-page)
+- Live Site URL: [live site](https://rushikeshgodse.github.io/huddle-landing-page/)
